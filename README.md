@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartiktyagi07&label=Profile%20views&color=0e75b6&style=flat" alt="kartiktyagi07" /> </p>
 
-- Currently Studying Computer Science and Engineering **Currently Studying Computer Science**
+- **Currently Studying Computer Science and Engineering**
 
 - 🌱 I’m currently learning **React.js, Spring Boot**
 
