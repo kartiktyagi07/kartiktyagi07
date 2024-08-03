@@ -1,4 +1,4 @@
-![logo](https://github.com/kartiktyagi07/kartiktyagi07/blob/main/itachi-back.jpg)
+![logo](https://github.com/kartiktyagi07/kartiktyagi07/blob/main/Untitled%20design.jpg)
 <h1 align="center">Hi 👋, I'm Kartik Tyagi</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
